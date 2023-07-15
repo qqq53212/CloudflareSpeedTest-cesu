@@ -2,7 +2,8 @@
 
 https://github.com/XIU2/CloudflareSpeedTest/issues/168
 
-V2RAY 测速地址手动输入 https://cs.kjkkk.eu.org        https://cs.todoss.link
+V2RAY 测速地址手动输入 https://cs.kjkkk.eu.org        
+                      https://cs.todoss.link
 
 手动输入不了的，升级V2ray到6.27版本即可 
 自己部署优选IP测速地址的 去workers里面修改测速网址为
